@@ -9,7 +9,7 @@ Hi there! I'm a student at Strathmore University, pursuing a Bachelor's degree i
 - **Project Contributions**: I actively contribute to projects that align with my interests, and I'm always eager to collaborate on open-source initiatives.
 
 ## Projects
-- **[Allan.netlify.app](#)**: Description of a project where you've utilized your skills.
+- **[Allan.netlify.app](#)**
 
 ## Connect with Me
 - **GitHub**: [OhMyGit404](https://github.com/OhMyGit404)
